@@ -11,20 +11,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndySlowrunner/goit-nodejs-hw-1.git"
+    "url": "git+https://github.com/AndySlowrunner/goit-nodejs-hw-01.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AndySlowrunner/goit-nodejs-hw-1/issues"
+    "url": "https://github.com/AndySlowrunner/goit-nodejs-hw-01/issues"
   },
-  "homepage": "https://github.com/AndySlowrunner/goit-nodejs-hw-1#readme",
+  "homepage": "https://github.com/AndySlowrunner/goit-nodejs-hw-01#readme",
   "devDependencies": {
     "nodemon": "^3.0.2"
   },
   "dependencies": {
     "commander": "^11.1.0",
-    "detect-file-encoding-and-language": "^2.4.0"
+    "detect-file-encoding-and-language": "^2.4.0",
+    "nanoid": "^5.0.4",
+    "yargs": "^17.7.2"
   }
 }
